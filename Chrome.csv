@@ -1,0 +1,31 @@
+,Username,Repo_Name,Repo-Url,Repo_stars
+0,electron        ,electron,https://github.com/electron/electron,100k
+1,microsoft       ,playwright,https://github.com/microsoft/playwright,34.5k
+2,FiloSottile     ,mkcert,https://github.com/FiloSottile/mkcert,33.8k
+3,iamadamdev      ,bypass-paywalls-chrome,https://github.com/iamadamdev/bypass-paywalls-chrome,22.2k
+4,ovity          /,octotree,https://github.com/ovity/octotree,21.8k
+5,segmentio       ,nightmare,https://github.com/segmentio/nightmare,19.1k
+6,jaywcjlove      ,linux-command,https://github.com/jaywcjlove/linux-command,17.9k
+7,checkly         ,headless-recorder,https://github.com/checkly/headless-recorder,13.9k
+8,prisma-archive  ,chromeless,https://github.com/prisma-archive/chromeless,13.2k
+9,google          ,WebFundamentals,https://github.com/google/WebFundamentals,12.4k
+10,casesandberg    ,react-color,https://github.com/casesandberg/react-color,10.4k
+11,GoogleChrome    ,chrome-extensions-samples,https://github.com/GoogleChrome/chrome-extensions-samples,9.5k
+12,crimx          /,ext-saladict,https://github.com/crimx/ext-saladict,8.7k
+13,uBlock-LLC      ,uBlock,https://github.com/uBlock-LLC/uBlock,8.1k
+14,MetaMask        ,metamask-extension,https://github.com/MetaMask/metamask-extension,7.3k
+15,chromedp        ,chromedp,https://github.com/chromedp/chromedp,7.3k
+16,alvarcarto      ,url-to-pdf-api,https://github.com/alvarcarto/url-to-pdf-api,6.6k
+17,kangvcar        ,InfoSpider,https://github.com/kangvcar/InfoSpider,6.1k
+18,Kenshin         ,simpread,https://github.com/Kenshin/simpread,5.5k
+19,yujiosaka       ,headless-chrome-crawler,https://github.com/yujiosaka/headless-chrome-crawler,5.2k
+20,MontFerret      ,ferret,https://github.com/MontFerret/ferret,4.9k
+21,gildas-lormeau  ,SingleFile,https://github.com/gildas-lormeau/SingleFile,4.7k
+22,firefox-devtools,debugger,https://github.com/firefox-devtools/debugger,4.6k
+23,themerdev       ,themer,https://github.com/themerdev/themer,4.6k
+24,burtonator      ,polar-bookshelf,https://github.com/burtonator/polar-bookshelf,4.4k
+25,nieweidong      ,fetool,https://github.com/nieweidong/fetool,4.3k
+26,moonD4rk        ,HackBrowserData,https://github.com/moonD4rk/HackBrowserData,4.1k
+27,browserless     ,chrome,https://github.com/browserless/chrome,4.1k
+28,ajayyy          ,SponsorBlock,https://github.com/ajayyy/SponsorBlock,4.1k
+29,brookhong       ,Surfingkeys,https://github.com/brookhong/Surfingkeys,3.9k

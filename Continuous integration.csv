@@ -1,0 +1,31 @@
+,Username,Repo_Name,Repo-Url,Repo_stars
+0,localstack      ,localstack,https://github.com/localstack/localstack,38.8k
+1,harness         ,drone,https://github.com/harness/drone,24.5k
+2,jenkinsci       ,jenkins,https://github.com/jenkinsci/jenkins,18.5k
+3,auchenberg      ,volkswagen,https://github.com/auchenberg/volkswagen,12.3k
+4,openshift       ,origin,https://github.com/openshift/origin,8.1k
+5,theonedev       ,onedev,https://github.com/theonedev/onedev,6.5k
+6,gocd          / ,gocd,https://github.com/gocd/gocd,6.4k
+7,concourse       ,concourse,https://github.com/concourse/concourse,6.2k
+8,buildbot        ,buildbot,https://github.com/buildbot/buildbot,4.8k
+9,gaia-pipeline   ,gaia,https://github.com/gaia-pipeline/gaia,4.6k
+10,Strider-CD      ,strider,https://github.com/Strider-CD/strider,4.6k
+11,jenkins-x       ,jx,https://github.com/jenkins-x/jx,4.1k
+12,ovh          /  ,cds,https://github.com/ovh/cds,3.7k
+13,xcpretty        ,xcpretty,https://github.com/xcpretty/xcpretty,3.7k
+14,hygieia         ,hygieia,https://github.com/hygieia/hygieia,3.7k
+15,cake-build      ,cake,https://github.com/cake-build/cake,3.2k
+16,werf          / ,werf,https://github.com/werf/werf,3k
+17,iterative       ,cml,https://github.com/iterative/cml,3k
+18,ligurio         ,awesome-ci,https://github.com/ligurio/awesome-ci,2.8k
+19,JamesIves       ,github-pages-deploy-action,https://github.com/JamesIves/github-pages-deploy-action,2.7k
+20,tox-dev         ,tox,https://github.com/tox-dev/tox,2.6k
+21,TheLartians     ,ModernCppStarter,https://github.com/TheLartians/ModernCppStarter,2.5k
+22,dancryer        ,PHPCI,https://github.com/dancryer/PHPCI,2.4k
+23,dreamans        ,syncd,https://github.com/dreamans/syncd,2.1k
+24,shivammathur    ,setup-php,https://github.com/shivammathur/setup-php,2k
+25,houndci         ,hound,https://github.com/houndci/hound,1.9k
+26,fabric8io       ,fabric8,https://github.com/fabric8io/fabric8,1.8k
+27,lastbackend     ,lastbackend,https://github.com/lastbackend/lastbackend,1.5k
+28,Flagsmith       ,flagsmith,https://github.com/Flagsmith/flagsmith,1.5k
+29,nuke-build      ,nuke,https://github.com/nuke-build/nuke,1.4k

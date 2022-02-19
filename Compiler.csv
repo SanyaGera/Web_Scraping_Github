@@ -1,0 +1,31 @@
+,Username,Repo_Name,Repo-Url,Repo_stars
+0,vercel          ,next.js,https://github.com/vercel/next.js,81.7k
+1,rust-lang       ,rust,https://github.com/rust-lang/rust,63.6k
+2,webpack         ,webpack,https://github.com/webpack/webpack,60.5k
+3,sveltejs        ,svelte,https://github.com/sveltejs/svelte,56k
+4,gatsbyjs        ,gatsby,https://github.com/gatsbyjs/gatsby,52.4k
+5,babel          /,babel,https://github.com/babel/babel,40.4k
+6,JetBrains       ,kotlin,https://github.com/JetBrains/kotlin,40.4k
+7,parcel-bundler  ,parcel,https://github.com/parcel-bundler/parcel,40.3k
+8,evanw          /,esbuild,https://github.com/evanw/esbuild,30.5k
+9,markedjs        ,marked,https://github.com/markedjs/marked,27k
+10,vlang          /,v,https://github.com/vlang/v,27k
+11,swc-project     ,swc,https://github.com/swc-project/swc,20.5k
+12,vercel          ,pkg,https://github.com/vercel/pkg,19.7k
+13,v8          /   ,v8,https://github.com/v8/v8,19.1k
+14,AssemblyScript  ,assemblyscript,https://github.com/AssemblyScript/assemblyscript,13.5k
+15,Konloch         ,bytecode-viewer,https://github.com/Konloch/bytecode-viewer,12.7k
+16,ziglang         ,zig,https://github.com/ziglang/zig,12.6k
+17,nim-lang        ,Nim,https://github.com/nim-lang/Nim,12.5k
+18,gopherjs        ,gopherjs,https://github.com/gopherjs/gopherjs,10.9k
+19,RustPython      ,RustPython,https://github.com/RustPython/RustPython,10.6k
+20,compiler-explore,compiler-explorer,https://github.com/compiler-explorer/compiler-explorer,10.2k
+21,goplus          ,gop,https://github.com/goplus/gop,7.9k
+22,apache          ,tvm,https://github.com/apache/tvm,7.7k
+23,numba          /,numba,https://github.com/numba/numba,7.3k
+24,JetBrains       ,kotlin-native,https://github.com/JetBrains/kotlin-native,7.1k
+25,elm          /  ,compiler,https://github.com/elm/compiler,6.8k
+26,aalhour         ,awesome-compilers,https://github.com/aalhour/awesome-compilers,6.5k
+27,Nuitka          ,Nuitka,https://github.com/Nuitka/Nuitka,6.4k
+28,DoctorWkt       ,acwj,https://github.com/DoctorWkt/acwj,6.1k
+29,rescript-lang   ,rescript-compiler,https://github.com/rescript-lang/rescript-compiler,5.7k

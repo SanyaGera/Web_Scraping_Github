@@ -1,0 +1,31 @@
+,Username,Repo_Name,Repo-Url,Repo_stars
+0,realm          /,SwiftLint,https://github.com/realm/SwiftLint,15.8k
+1,facebook        ,infer,https://github.com/facebook/infer,13k
+2,analysis-tools-d,static-analysis,https://github.com/analysis-tools-dev/static-analysis,9.6k
+3,checkstyle      ,checkstyle,https://github.com/checkstyle/checkstyle,6.6k
+4,SonarSource     ,sonarqube,https://github.com/SonarSource/sonarqube,6.5k
+5,Kristories      ,awesome-guidelines,https://github.com/Kristories/awesome-guidelines,6.5k
+6,facebook        ,pyre-check,https://github.com/facebook/pyre-check,5.8k
+7,reviewdog       ,reviewdog,https://github.com/reviewdog/reviewdog,4.8k
+8,simplecov-ruby  ,simplecov,https://github.com/simplecov-ruby/simplecov,4.4k
+9,detekt          ,detekt,https://github.com/detekt/detekt,4.3k
+10,import-js       ,eslint-plugin-import,https://github.com/import-js/eslint-plugin-import,3.8k
+11,PyCQA          /,pylint,https://github.com/PyCQA/pylint,3.8k
+12,pmd          /  ,pmd,https://github.com/pmd/pmd,3.7k
+13,phpro          /,grumphp,https://github.com/phpro/grumphp,3.7k
+14,htmlhint        ,HTMLHint,https://github.com/htmlhint/HTMLHint,2.8k
+15,kucherenko      ,jscpd,https://github.com/kucherenko/jscpd,2.5k
+16,codeclimate     ,codeclimate,https://github.com/codeclimate/codeclimate,2.3k
+17,trekhleb        ,state-of-the-art-shitcode,https://github.com/trekhleb/state-of-the-art-shitcode,2.3k
+18,uber          / ,piranha,https://github.com/uber/piranha,1.9k
+19,wemake-services ,wemake-python-styleguide,https://github.com/wemake-services/wemake-python-styleguide,1.8k
+20,ehmicky         ,cross-platform-node-guide,https://github.com/ehmicky/cross-platform-node-guide,1.2k
+21,Tencent         ,feflow,https://github.com/Tencent/feflow,1.1k
+22,urish          /,typewiz,https://github.com/urish/typewiz,1.1k
+23,Tencent         ,CodeAnalysis,https://github.com/Tencent/CodeAnalysis,993
+24,jakzal          ,phpqa,https://github.com/jakzal/phpqa,991
+25,joshuaclayton   ,unused,https://github.com/joshuaclayton/unused,874
+26,imgbot          ,Imgbot,https://github.com/imgbot/Imgbot,863
+27,SonarSource     ,SonarJS,https://github.com/SonarSource/SonarJS,784
+28,pdepend         ,pdepend,https://github.com/pdepend/pdepend,783
+29,SonarSource     ,SonarTS,https://github.com/SonarSource/SonarTS,767

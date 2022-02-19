@@ -1,0 +1,31 @@
+,Username,Repo_Name,Repo-Url,Repo_stars
+0,ohmyzsh         ,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh,141k
+1,junegunn        ,fzf,https://github.com/junegunn/fzf,42.2k
+2,sharkdp         ,bat,https://github.com/sharkdp/bat,32.5k
+3,wagoodman       ,dive,https://github.com/wagoodman/dive,30.1k
+4,sherlock-project,sherlock,https://github.com/sherlock-project/sherlock,29.6k
+5,BurntSushi      ,ripgrep,https://github.com/BurntSushi/ripgrep,29.5k
+6,chubin          ,cheat.sh,https://github.com/chubin/cheat.sh,28.2k
+7,cli          /  ,cli,https://github.com/cli/cli,27.3k
+8,jesseduffield   ,lazygit,https://github.com/jesseduffield/lazygit,26k
+9,spf13          /,cobra,https://github.com/spf13/cobra,25.3k
+10,angular         ,angular-cli,https://github.com/angular/angular-cli,25.2k
+11,alebcay         ,awesome-shell,https://github.com/alebcay/awesome-shell,23k
+12,google          ,python-fire,https://github.com/google/python-fire,21.9k
+13,tqdm          / ,tqdm,https://github.com/tqdm/tqdm,21.2k
+14,n8n-io          ,n8n,https://github.com/n8n-io/n8n,20.9k
+15,sharkdp         ,fd,https://github.com/sharkdp/fd,20.7k
+16,ibraheemdev     ,modern-unix,https://github.com/ibraheemdev/modern-unix,20.6k
+17,vercel          ,pkg,https://github.com/vercel/pkg,19.7k
+18,avajs          /,ava,https://github.com/avajs/ava,19.6k
+19,chalk          /,chalk,https://github.com/chalk/chalk,18k
+20,vadimdemedes    ,ink,https://github.com/vadimdemedes/ink,17.8k
+21,urfave          ,cli,https://github.com/urfave/cli,17.3k
+22,svg          /  ,svgo,https://github.com/svg/svgo,17.3k
+23,gpakosz         ,.tmux,https://github.com/gpakosz/.tmux,16k
+24,allinurl        ,goaccess,https://github.com/allinurl/goaccess,14.3k
+25,FormidableLabs  ,webpack-dashboard,https://github.com/FormidableLabs/webpack-dashboard,13.9k
+26,infinitered     ,ignite,https://github.com/infinitered/ignite,13.5k
+27,jarun          /,nnn,https://github.com/jarun/nnn,13.5k
+28,asdf-vm         ,asdf,https://github.com/asdf-vm/asdf,13.2k
+29,antonmedv       ,fx,https://github.com/antonmedv/fx,13.1k

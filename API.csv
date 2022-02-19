@@ -1,0 +1,31 @@
+,Username,Repo_Name,Repo-Url,Repo_stars
+0,public-apis     ,public-apis,https://github.com/public-apis/public-apis,181k
+1,neovim          ,neovim,https://github.com/neovim/neovim,50.9k
+2,strapi          ,strapi,https://github.com/strapi/strapi,43.2k
+3,tiangolo        ,fastapi,https://github.com/tiangolo/fastapi,41.9k
+4,hoppscotch      ,hoppscotch,https://github.com/hoppscotch/hoppscotch,36.5k
+5,slatedocs       ,slate,https://github.com/slatedocs/slate,33.7k
+6,hasura          ,graphql-engine,https://github.com/hasura/graphql-engine,25.5k
+7,YMFE          / ,yapi,https://github.com/YMFE/yapi,23.6k
+8,ccxt          / ,ccxt,https://github.com/ccxt/ccxt,23.3k
+9,Binaryify       ,NeteaseCloudMusicApi,https://github.com/Binaryify/NeteaseCloudMusicApi,22.9k
+10,encode          ,django-rest-framework,https://github.com/encode/django-rest-framework,22.8k
+11,littlecodersh   ,ItChat,https://github.com/littlecodersh/ItChat,22k
+12,paularmstrong   ,normalizr,https://github.com/paularmstrong/normalizr,20.8k
+13,FallibleInc     ,security-guide-for-developers,https://github.com/FallibleInc/security-guide-for-developers,20.1k
+14,Kong          / ,insomnia,https://github.com/Kong/insomnia,19.7k
+15,microsoft       ,api-guidelines,https://github.com/microsoft/api-guidelines,18.6k
+16,pubkey          ,rxdb,https://github.com/pubkey/rxdb,17.1k
+17,shieldfy        ,API-Security-Checklist,https://github.com/shieldfy/API-Security-Checklist,16.7k
+18,directus        ,directus,https://github.com/directus/directus,13.9k
+19,ChainSafe       ,web3.js,https://github.com/ChainSafe/web3.js,13.7k
+20,learn-anything  ,learn-anything,https://github.com/learn-anything/learn-anything,13.6k
+21,youfou          ,wxpy,https://github.com/youfou/wxpy,13.1k
+22,jsdoc          /,jsdoc,https://github.com/jsdoc/jsdoc,12.7k
+23,BrainJS         ,brain.js,https://github.com/BrainJS/brain.js,12.4k
+24,fangzesheng     ,free-api,https://github.com/fangzesheng/free-api,11.9k
+25,OpenAPITools    ,openapi-generator,https://github.com/OpenAPITools/openapi-generator,11.3k
+26,graphile        ,postgraphile,https://github.com/graphile/postgraphile,11.1k
+27,go-chi          ,chi,https://github.com/go-chi/chi,11k
+28,postmanlabs     ,httpbin,https://github.com/postmanlabs/httpbin,10.6k
+29,star7th         ,showdoc,https://github.com/star7th/showdoc,10.2k

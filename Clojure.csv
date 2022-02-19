@@ -1,0 +1,31 @@
+,Username,Repo_Name,Repo-Url,Repo_stars
+0,metabase        ,metabase,https://github.com/metabase/metabase,27.5k
+1,eclipse         ,deeplearning4j,https://github.com/eclipse/deeplearning4j,12.4k
+2,LightTable      ,LightTable,https://github.com/LightTable/LightTable,11.7k
+3,logseq          ,logseq,https://github.com/logseq/logseq,11k
+4,kanaka          ,mal,https://github.com/kanaka/mal,8.4k
+5,lk-geimfari     ,awesomo,https://github.com/lk-geimfari/awesomo,8.3k
+6,penpot          ,penpot,https://github.com/penpot/penpot,7k
+7,tonsky          ,datascript,https://github.com/tonsky/datascript,4.6k
+8,reagent-project ,reagent,https://github.com/reagent-project/reagent,4.4k
+9,riemann         ,riemann,https://github.com/riemann/riemann,4.1k
+10,weavejester     ,compojure,https://github.com/weavejester/compojure,3.9k
+11,bbatsov         ,clojure-style-guide,https://github.com/bbatsov/clojure-style-guide,3.8k
+12,izhangzhihao    ,intellij-rainbow-brackets,https://github.com/izhangzhihao/intellij-rainbow-brackets,3.7k
+13,ring-clojure    ,ring,https://github.com/ring-clojure/ring,3.4k
+14,status-im       ,status-react,https://github.com/status-im/status-react,3.4k
+15,clojure-emacs   ,cider,https://github.com/clojure-emacs/cider,3.3k
+16,viebel          ,klipse,https://github.com/viebel/klipse,2.9k
+17,bhauman         ,lein-figwheel,https://github.com/bhauman/lein-figwheel,2.9k
+18,tallesl         ,Rich-Hickey-fanclub,https://github.com/tallesl/Rich-Hickey-fanclub,2.8k
+19,twosigma        ,beakerx,https://github.com/twosigma/beakerx,2.6k
+20,babashka        ,babashka,https://github.com/babashka/babashka,2.6k
+21,pedestal        ,pedestal,https://github.com/pedestal/pedestal,2.5k
+22,clj-commons     ,aleph,https://github.com/clj-commons/aleph,2.4k
+23,weavejester     ,hiccup,https://github.com/weavejester/hiccup,2.4k
+24,razum2um        ,awesome-clojure,https://github.com/razum2um/awesome-clojure,2.3k
+25,http-kit        ,http-kit,https://github.com/http-kit/http-kit,2.2k
+26,defold          ,defold,https://github.com/defold/defold,2.1k
+27,onyx-platform   ,onyx,https://github.com/onyx-platform/onyx,2k
+28,anmonteiro      ,lumo,https://github.com/anmonteiro/lumo,1.9k
+29,xtdb          / ,xtdb,https://github.com/xtdb/xtdb,1.7k

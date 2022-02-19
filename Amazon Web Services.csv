@@ -1,0 +1,31 @@
+,Username,Repo_Name,Repo-Url,Repo_stars
+0,serverless      ,serverless,https://github.com/serverless/serverless,42.2k
+1,localstack      ,localstack,https://github.com/localstack/localstack,38.8k
+2,donnemartin     ,data-science-ipython-notebooks,https://github.com/donnemartin/data-science-ipython-notebooks,22.5k
+3,bregman-arie    ,devops-exercises,https://github.com/bregman-arie/devops-exercises,21.3k
+4,ramitsurana     ,awesome-kubernetes,https://github.com/ramitsurana/awesome-kubernetes,12.5k
+5,aws          /  ,aws-cli,https://github.com/aws/aws-cli,12k
+6,kubernetes-sigs ,kubespray,https://github.com/kubernetes-sigs/kubespray,11.9k
+7,pulumi          ,pulumi,https://github.com/pulumi/pulumi,11.5k
+8,donnemartin     ,awesome-aws,https://github.com/donnemartin/awesome-aws,10.1k
+9,apereo          ,cas,https://github.com/apereo/cas,9.3k
+10,mozilla         ,sops,https://github.com/mozilla/sops,9.2k
+11,aws          /  ,chalice,https://github.com/aws/chalice,8.7k
+12,aws-amplify     ,amplify-js,https://github.com/aws-amplify/amplify-js,8.6k
+13,apex          / ,up,https://github.com/apex/up,8.5k
+14,aws          /  ,serverless-application-model,https://github.com/aws/serverless-application-model,8.4k
+15,aws          /  ,aws-cdk,https://github.com/aws/aws-cdk,8.3k
+16,google          ,go-cloud,https://github.com/google/go-cloud,8.2k
+17,caprover        ,caprover,https://github.com/caprover/caprover,8.2k
+18,aws          /  ,aws-sdk-go,https://github.com/aws/aws-sdk-go,7.5k
+19,angristan       ,openvpn-install,https://github.com/angristan/openvpn-install,7.5k
+20,boto          / ,boto3,https://github.com/boto/boto3,7k
+21,aws          /  ,aws-sdk-js,https://github.com/aws/aws-sdk-js,6.9k
+22,hashicorp       ,terraform-provider-aws,https://github.com/hashicorp/terraform-provider-aws,6.9k
+23,GoogleCloudPlatf,terraformer,https://github.com/GoogleCloudPlatform/terraformer,6.8k
+24,aws          /  ,amazon-sagemaker-examples,https://github.com/aws/amazon-sagemaker-examples,6.6k
+25,awslabs         ,aws-shell,https://github.com/awslabs/aws-shell,6.4k
+26,gruntwork-io    ,terratest,https://github.com/gruntwork-io/terratest,5.9k
+27,aws          /  ,aws-sam-cli,https://github.com/aws/aws-sam-cli,5.9k
+28,99designs       ,aws-vault,https://github.com/99designs/aws-vault,5.9k
+29,donnemartin     ,dev-setup,https://github.com/donnemartin/dev-setup,5.6k
